@@ -10,7 +10,39 @@ public class TrianglePerimeter {
     for calculating the perimeter of a triangle.
      */
 
+    //1.Write a plan
+    //2.code the method header
+    //3.code the main method
+
     public static void main(String[] args) {
 
+
+
+        public static void perimeter(){
+
+            double
+
+
+
+        }
+
+
+
+
+
+
+
+
+
     }
+
+
+
+
+
+
+
+
 }
+
+

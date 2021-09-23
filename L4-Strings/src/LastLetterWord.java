@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 public class LastLetterWord {
 
     /*
@@ -9,10 +11,23 @@ public class LastLetterWord {
     Ex:  Goodbye, Hello, Morning -> byelloing
     */
 
+
+
     public static void main(String[] args) {
+        String word1 = JOptionPane.showInputDialog("Enter word 1 ");
+        String word2 = JOptionPane.showInputDialog("Enter word 2 ");
+        String word3 = JOptionPane.showInputDialog("Enter word 3 ");
 
 
 
     }
+
+public static String lastThree(String word){
+
+       return word.substring(word.length()-3);
+
+
+
+}
 
 }
